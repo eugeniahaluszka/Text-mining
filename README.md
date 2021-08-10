@@ -21,6 +21,6 @@ La selección de las mismas debería ser sistemática y metodológica. Esto perm
 Generar una base de tweets que sea completa y relevante en torno a una temática particular, a partir de una palabra clave y sus derivadas. 
 
 ### Organización: 
-Este repositorio se organizó de forma tal que en la carpeta “1. Metodología aplicada a la selección de palabras clave” se encuentran las técnicas aplicadas explicadas junto con las notebooks y sus respectivas salidas. Cada técnica cuenta con un breve descripción de los procedimientos que se deben llevar a cabo, además de sus principales características y aplicaciones. En las notebooks se encontrará el procedimiento llevado a cabo de manera detallada y explicada junto con sus resultados visibles y conclusiones.
+Este repositorio se organizó de forma tal que en la carpeta “1. Metodología aplicada a la selección de palabras clave” se encuentran las técnicas que fueron aplicadas y explicadas junto con las notebooks y sus respectivas salidas. Cada técnica cuenta con un breve descripción de los procedimientos que se deben llevar a cabo, además de sus principales características. En las notebooks se encontrará el procedimiento llevado a cabo de manera detallada y explicada junto con sus resultados visibles y conclusiones.
 En la carpeta “2. Conclusiones” se podrá encontrar las principales conclusiones de todo el trabajo elaborado y los problemas futuros a tratar.
 
