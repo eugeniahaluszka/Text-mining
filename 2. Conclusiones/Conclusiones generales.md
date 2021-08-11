@@ -15,3 +15,6 @@ localización de los usuarios que tweetean.
 ### Algunas curiosidades de los resultados 
 
 ver lo de carmena que comentaste Lau
+https://as.com/tikitakas/2021/05/20/portada/1621488340_684040.html        --> Seagal
+https://www.csic.es/ --> csic
+
