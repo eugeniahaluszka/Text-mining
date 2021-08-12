@@ -17,3 +17,6 @@ Sistemas de traducción: Generalmente estos sistemas están formados por una red
 Análisis de opinión en textos: Con el crecimiento de popularidad de las redes sociales, resulta muy interesante el desarrollo de un sistema capaz de analizar si las opiniones de sobre un producto son positivas o negativas. 
 Generación de textos: Mediante el uso de redes neuronales recurrentes es posible generar texto de forma automática. Combinando estos modelos con redes convolucionales es incluso posible crear sistemas que anoten o describan imágenes.
 Chatbot, o sistemas que respondan preguntas de usuarios. 
+
+
+## Procedimiento realizado
