@@ -26,6 +26,8 @@ Generar una base de tweets que sea completa y relevante en torno a una temática
 
 Este repositorio se organizó en 2 carpetas. En la carpeta 1 denominada “Metodología aplicada a la selección de palabras clave”, se encuentran las técnicas que fueron aplicadas, con una breve explicación, junto con las notebooks y sus respectivas salidas. Para cada técnica se mencionan y describen los procedimientos realizados, además de sus principales características. En las notebooks se encontrará el procedimiento llevado a cabo de manera detallada, su análisis, explicación, resultados visibles y conclusiones. En la carpeta 2 “Conclusiones” se podrá encontrar las principales conclusiones de todo el trabajo elaborado y los problemas futuros a tratar.
 
+Trabajo inspirado en Han van der Veen, 2015 "Composing a more complete and relevant Twitter dataset" y Joaquin Amat Rodrigo, 2020 "Análisis de texto con python" disponible en: https://www.cienciadedatos.net/documentos/py25-text-mining-python.html
+
 
 ### Referencias bibliográficas
 
