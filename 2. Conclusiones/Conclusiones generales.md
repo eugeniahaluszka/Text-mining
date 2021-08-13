@@ -1,6 +1,6 @@
 ### Conclusión general
 
-A partir del problema planteado se distingue la necesidad de elegir una técnica que optimice y resuelva al mismo. En general los procedimientos llevados a cabo permitieron seleccionar, a nuestro criterio, la técnica que dio mejores resultados y resolvió el problema planteado. Sin embargo, es importante destacar que la aplicación de cada una de las mismas fue un proceso indispensable que permitió aclarar nuestro objetivo y reconocer sus ventajas y desventajas para futuras intervenciones.
+A partir del problema planteado se distingue la necesidad de elegir una técnica que optimice y resuelva al mismo. En general los procedimientos llevados a cabo permitieron seleccionar, a nuestro criterio, la técnica que dio mejores resultados y resolvió el problema planteado. Sin embargo, es importante destacar que la aplicación de cada una de las mismas fue un proceso indispensable que permitió alcanzar nuestro objetivo y reconocer sus ventajas y desventajas para futuras intervenciones.
 Las técnicas que se aplicaron fueron:
   - Term Frequency, si bien no fue el método elegido, la misma puede ayudar a distinguir variaciones semánticas sutiles, por lo que generalmente debemos considerarla en un principio como análisis exploratorio del documento a trabajar.
   - Probability of words, que presentó resultados interesantes y mostró cuales eran las palabras más notables del dataset. Su implementación se adecuó de mejor manera a la demanda, optimizando los resultados obtenidos en relación a la aplicación de TF.  
@@ -22,7 +22,7 @@ Una vez que se finalice la primer etapa del proceso de recolección de tweets co
 
 ### Algunas curiosidades de los resultados 
 
-Tweet polémico para TF: https://twitter.com/agustinbjs_/status/1394061977358635009?s=20 y los resultados del top 10 de TF, _OBESO: obesos, decirle, hermoso, river, quieras, penales, pusiste, picame, cardona, perdono._ Coincidencias ? 
+Tweet polémico para TF: https://twitter.com/agustinbjs_/status/1394061977358635009?s=20 y los resultados del top 10 de TF, _OBESO: obesos, decirle, hermoso, river, quieras, penales, pusiste, picame, cardona, perdono._ Coincidencias ? Además cabe resaltar que todas esas palabras contenidas en ese tweet tienen la misma cantidad de frecuencias. Esto es importante a notar a futuro y reconocer que es lo que los resultados nos están diciendo.
 
 En PW aparecieron las palabras Seagal y CSIC las cuales llamaron nuestra atención. Hicimos una búsqueda y este fue el resultado:
 En mayo el actor Steven Seagal fue acusado de acoso sexual y muchxs usuarixs de twitter hicieron mención del mismo como "el obeso Seagal" 
