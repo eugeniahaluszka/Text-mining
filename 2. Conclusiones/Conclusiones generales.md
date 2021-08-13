@@ -18,15 +18,15 @@ También podríamos haber utilizado otras técnicas para resolver este problema.
 
 ### Problemas futuros a resolver
 
-localización de los usuarios que tweetean. 
+Una vez que se finalice la primer etapa del proceso de recolección de tweets con las nuevas _keywords_ se procederá a sistematizar el filtrado de las localizaciones de los usuarios. Se tiene interés en dejar sólo aquellos tweets que pertenecen a usuarios de Argentina, y posteriormente generar una nueva base pero con los tweets provenientes sólo de Córdoba Capital. Como el filtrado por coordenadas no puede ser usado si se están recolectando los tweets con _keywords_ este proceso deberá ser llevado a cabo manualmente. Por el momento se ha pensado en ordenar las locaciones por frecuencia de aparición y utilizar los términos de aquellas que presentan alta frecuencia.
 
 ### Algunas curiosidades de los resultados 
 
 Tweet polémico para TF: https://twitter.com/agustinbjs_/status/1394061977358635009?s=20 y los resultados del top 10 de TF, _OBESO: obesos, decirle, hermoso, river, quieras, penales, pusiste, picame, cardona, perdono._ Coincidencias ? 
 
+En PW aparecieron las palabras Seagal y CSIC las cuales llamaron nuestra atención. Hicimos una búsqueda y este fue el resultado:
+En mayo el actor Steven Seagal fue acusado de acoso sexual y muchxs usuarixs de twitter hicieron mención del mismo como "el obeso Seagal" 
+https://as.com/tikitakas/2021/05/20/portada/1621488340_684040.html    
 
-
-
-https://as.com/tikitakas/2021/05/20/portada/1621488340_684040.html        --> Seagal
-https://www.csic.es/ --> csic
-
+El CSIC es el consejo superior de investigaciones científicas de España. Si bien algunos tweets de España fueron eliminados, se buscó en la base y encontró que algunas de las noticias también habían sido compartidas por usuarios con locación en Argentina. La noticia compartida estaba relacionada a probióticos y sobrepeso.
+https://www.csic.es/ 
